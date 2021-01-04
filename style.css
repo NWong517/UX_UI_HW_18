@@ -1,0 +1,4 @@
+.flexContainer div{
+    display: flex;
+    width: 33%;
+}
