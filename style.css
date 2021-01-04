@@ -1,4 +1,4 @@
-.flexContainer div{
+.flexContainer{
     display: flex;
     width: 33%;
 }
